@@ -444,13 +444,6 @@ footer h2{
 }
 
 .nav a:hover {
-    color: /* Membership Page */.price-card p,
-.price-card li,
-.price-card strong {
-    color: #222;
-}
-
-.price-card h2 {
-    color: #111;
+    color: /* Membership Page */.p
 }
 }
